@@ -9,7 +9,7 @@ Gestion d'en-têtes personnalisés : Le script génère des en-têtes pour les r
 
 Utilisation :
 
-    ./script.sh <fichier_de_domaines> <interactsh_url> <fichier_de_sortie>
+    ./exp.sh <fichier_de_domaines> <interactsh_url> <fichier_de_sortie>
 
 <fichier_de_domaines> : Fichier contenant une liste de domaines à tester.
 <interactsh_url> : URL du service Interactsh pour vérifier les interactions d'exploitation.
